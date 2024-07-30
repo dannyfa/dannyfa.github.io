@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.D & Ph.D in Electrical and Computer Engineering (ECE), Duke University, 2026 (expected)
-* M.S. in Electrical and Computer Engineering (ECE), Duke University,2022
+* M.S. in Electrical and Computer Engineering (ECE), Duke University, 2022
 * B.S. in Neuroscience, Duke University, 2015
 
 Honors & Awards
@@ -21,7 +21,7 @@ Honors & Awards
 * Outstanding Graduate Student Teaching Assistant, Spring 2024 & 2025
 * Selected to attend in-person, Oxford's Machine Learning in Medicine Summer School, Summer 2023
 * Runner-up for Gertrude B. Elion Research Award, Triangle Community Foundation, Spring 2023
-* One out of three Duke finalists, Apple's AI/ML PhD Fellowship selection 
+* One out of three Duke finalists, Apple's AI/ML PhD Fellowship selection, Fall 2021 
 * Medical Scientist Training Program (MSTP) trainee award through Duke, 2017-present 
 * Post-Baccalaureate Intramural Research Fellowsip Award, NIMH, 2015-2017
 * Elected Member of Phi Beta Kappa, Summer 2015
