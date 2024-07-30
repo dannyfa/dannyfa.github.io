@@ -1,5 +1,5 @@
 ---
-title: "The effects of distraction on brain processes underlying signal detection."
+title: "The effects of distraction on brain processes underlying signal detection"
 collection: publications
 permalink: /publication/undergrad_neuropsychologia_paper
 excerpt: 'This work leverages the high temporal resolution of EEG to study the neural consequences of a global, continuous distractor on signal-detection processes.'

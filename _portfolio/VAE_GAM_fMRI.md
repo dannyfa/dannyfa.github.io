@@ -25,7 +25,7 @@ This model has the key advange of correctly accounting for spatial autocorrelati
 similarly to classic fMRI analysis methods, it generates separate volumetric regressor effect maps, which are highly interpretable and useful for 
 clinicians and researchers interested in conducting fMRI experiments.  
 
-For more details, check our PMLR [publication](https://proceedings.mlr.press/v149/albuquerque21a/albuquerque21a.pdf). Code for this project is available at this 
+For more details, check our JMLR [publication](https://proceedings.mlr.press/v149/albuquerque21a/albuquerque21a.pdf). Code for this project is available at this 
 [repository](https://github.com/dannyfa/VAE-GAM).
 
 <!--- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. 

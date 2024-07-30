@@ -13,7 +13,7 @@ and Duke's MSTP program.
 
 My PhD is focused on developing novel statistical machine learning analysis tools tailored 
 towards specific problems in neuroscience and biomedical research. From a machine learning standpoint, I am broadly interested in deep generative models (i.e., VAEs, 
-Diffusion-Based Models, Flow Matching) and in utilizing such models to learn <i> compressed, and interpretable </i> representations from higher-dimensional data, 
+Diffusion-Based Models, Flow Matching) and in utilizing such models to learn <i> compressed, and interpretable </i> representations from high-dimensional data, 
 while also providing estimates of error and uncertainty. 
 
 From a clinical standpoint, I am interested in becoming a neuroradiologist and in utilizing my joint clinical

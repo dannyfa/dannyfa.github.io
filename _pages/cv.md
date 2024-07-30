@@ -71,7 +71,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks & Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -103,7 +103,7 @@ Service and leadership
   * Role: Executive Board Member; Educator 
   * Active Time: Fall 2017 - Fall 2018 
   * Description: This is a student group at the Duke SOM with two main goals: 1) prototyping
-  and constructing customized "wearables" for low-income patients with small hand and/or finger 
+  and constructing customized 3D-printed "wearables" for low-income patients with small hand and/or finger 
   amputations; 2) providing educational outreach to minority students interested in STEM (through 
   Duke's Boost Program) by introducing these students to basics of hand anatomy, 3D printing, and
   engineering design.

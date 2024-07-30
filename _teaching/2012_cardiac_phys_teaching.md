@@ -12,4 +12,4 @@ I was a teaching assistant for the graduate cardiac physiology course at Univers
 
 <strong>Duties:</strong> explained, demonstrated, and supervised the conduction of practical laboratory work in cardiac physiology to 
 accompany the topics covered in the theoretical portion of the medical cardiac physiology course. All second year medical students
-are required to take this course as part of their core medical science requirements. 
+are required to take this course as part of their core medical science curriculum. 

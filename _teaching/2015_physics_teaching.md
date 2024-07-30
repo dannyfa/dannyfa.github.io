@@ -3,7 +3,7 @@ title: "Physics 141L & 142L"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015_physics_teaching
-venue: "Duke Univeristy, Physics"
+venue: "Duke University, Physics"
 date: 2015-05-15
 location: "Beaufort, US"
 ---
