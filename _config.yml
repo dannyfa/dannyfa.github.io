@@ -12,7 +12,7 @@ title                    : "Daniela de Albuquerque"
 title_separator          : "-"
 name                     : &name "Daniela de Albuquerque"
 description              : &description "Developing deep generative models for neuroscience and biomedical data."
-url                      : https://dealbuquerque.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dannyfa.github.io/dealbuquerque/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dannyfa/dealbuquerque.github.io"
 
