@@ -1,13 +1,35 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: About Me 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an MD-PhD candidate at Duke University, pursuing my PhD in Electrical and Computer Engineering (ECE) 
+at [John Pearson's lab](https://pearsonlab.github.io/about.html). I am affiliated with the School of Medicine, the Department of Electrical and Computer Engineering, 
+and Duke's MSTP program. 
+
+My PhD is focused on developing novel statistical machine learning analysis tools tailored 
+towards specific problems in neuroscience and biomedical research. From a machine learning standpoint, I am broadly interested in deep generative models (i.e., VAEs, 
+Diffusion-Based Models, Flow Matching) and in utilizing such models to learn <i> compressed, and interpretable </i> representations from higher-dimensional data, 
+while also providing estimates of error and uncertainty. 
+
+From a clinical standpoint, I am interested in becoming a neuroradiologist and in utilizing my joint clinical
+and PhD training to help develop the next generation of data sciences tools for advancing the diagnosis, treatment, and management of neurological and neuropsychiatric 
+disorders. 
+
+<!--- I am originally from Brazil, and moved to the US on Fall 2012 to pursue my dream of studying neuroscience and medicine at Duke. As a Duke undergrad, 
+I worked with Drs. Marty Woldorff and Elise Demeter, at Duke's Center for Cognitive Neuroscience (CNN). After that, I bacame a post-bac research fellow 
+at the Clinical and Translational Neuroscience Branch of NIMH, where I workedunder Drs. Karen Berman and Joseph Callicott. These experiences provided 
+with broad training in collecting and analyzing multi-modal neuroimaging data (i.e., EEG, fMRI, DTI, MR spectroscopy), as well as genomic data. ---> 
+
+Outside of research and medicine, I enjoy surfing, baking, reading, hiking, and snuggling with my gorgeous ragdoll cat, Oliver! 
+
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -46,4 +68,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.--> 
