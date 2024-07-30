@@ -2,12 +2,13 @@
 title: "Inflationary Flows"
 excerpt: "Calibrated Bayesian Inference with Diffusion-Based Models<br/><img src='https://sites.duke.edu/ifsprojectassets/files/2024/07/figure1-1.png' width='75%'>"
 collection: portfolio
+mathjax: true
 ---
 
 <figure>
 <br/><center><img src='https://sites.duke.edu/ifsprojectassets/files/2024/07/figure1-1.png' width='85%'></center>
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
 <figcaption><strong>SDE-ODE Duality of diffusion-based models</strong>. The forward (noising) SDE defining the DBM (<strong>left</strong>) gives rise to a sequence of marginal probability densities whose temporal evolution is described by a Fokker-Planck equation (FPE, <strong>middle</strong>). But this correspondence is not unique: the probability flow ODE (pfODE, <strong>right</strong>) gives rise to the <i>same</i> FPE. That is, while both the SDE and the pfODE transform the data distribution in the same way, the former is noisy and mixing while the latter is deterministic and neighborhood-preserving. Both models require knowledge of the score function \( \nabla_\mathbf{x} \log p_t(\mathbf{x}) \), which can learned by training either.</figcaption>
 </figure>
