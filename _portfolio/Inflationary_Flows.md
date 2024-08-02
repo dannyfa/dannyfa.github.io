@@ -20,8 +20,11 @@ in the data are correctly propagated to the latent space. We demonstrate how suc
 effective at both preserving and reducing intrinsic data dimensionality. The result is a class of highly expressive generative models, uniquely defined on a low-dimensional 
 latent space, that afford principled Bayesian inference.
 
-Check out additional details by visiting our inflationary flows website! A full preprint for this project is available [here](https://arxiv.org/abs/2407.08843), 
-and code for reproducing the experiment results and training new models can be found [here](https://anonymous.4open.science/r/Inflationary_Flows-61F1/).
+<!--- Check out additional details by visiting our inflationary flows website! A full preprint for this project is available [here](https://arxiv.org/abs/2407.08843), 
+and code for reproducing the experiment results and training new models can be found [here](https://anonymous.4open.science/r/Inflationary_Flows-61F1/). ---> 
+
+A full preprint for this project is available [here](https://arxiv.org/abs/2407.08843), and code for reproducing the experiment results and 
+training new models can be found [here](https://anonymous.4open.science/r/Inflationary_Flows-61F1/). 
 
 Finally, this work was also featured on the CoSyNe 2024 Workshop entitled "I Can't Believe It's Not Better", check out the video for this talk [here](https://www.youtube.com/watch?v=5m8FWzZ_ZAc&list=PLWAzLum_3a1_qEfcl4Wrh3p7Qsjr2jIX4&index=2&t=4s).
 
