@@ -18,7 +18,7 @@ Education
 Honors & Awards
 ======
 * Ruth L. Kirschstein Pre-Doctoral NRSA, NIMH, 2023-2025
-* Outstanding Graduate Student Teaching Assistant, Spring 2024 & 2025
+* Outstanding Graduate Student Teaching Assistant, Spring 2023 & 2024
 * Selected to attend in-person, Oxford's Machine Learning in Medicine Summer School, Summer 2023
 * Runner-up for Gertrude B. Elion Research Award, Triangle Community Foundation, Spring 2023
 * One out of three Duke finalists, Apple's AI/ML PhD Fellowship selection, Fall 2021 
