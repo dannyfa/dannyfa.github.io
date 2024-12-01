@@ -5,10 +5,10 @@ permalink: /publication/phd_IFs_paper
 excerpt: 'In this project we exploited a previously established connection between the stochastic and probability flow ordinary differential equations (pfODEs) underlying
 Diffusion-Based Models (DBMs) to derive a new class of models, <i>inflationary flows</i>, that uniquely and deterministically map high-dimensional data to a lower-dimensional 
 Gaussian distribution via ODE integration.'
-date: 2024-07-11
-venue: 'ArXiv (preprint)'
-paperurl: 'https://arxiv.org/pdf/2407.08843v1'
-citation: '<strong> De Albuquerque, D.</strong>, & Pearson, J.(2024). &quot;Inflationary Flows: Calibrated Bayesian Inference with Diffusion-Based Models.&quot; <i>arXiv: 2407.08843 [cs, stat]</i>'
+date: 2024-12-09
+venue: 'Proceedings of the 38th Annual Conference on Neural Information Processing Systems'
+paperurl: 'https://openreview.net/pdf?id=IM4LtYRWdE'
+citation: '<strong> De Albuquerque, D.</strong>, & Pearson, J.(2024). &quot;Inflationary Flows: Calibrated Bayesian Inference with Diffusion-Based Models.&quot; <i>In Proceedings of the 38th Annual Conference on Neural Information Processing Systems.</i>'
 ---
 
 <i>Abstract:</i> Beyond estimating parameters of interest from data, one of the key goals of statistical inference is to properly quantify 
