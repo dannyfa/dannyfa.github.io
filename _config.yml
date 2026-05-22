@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Daniela de Albuquerque"
+title                    : "Daniela de Albuquerque, MD|PhD"
 title_separator          : "-"
 name                     : &name "Daniela de Albuquerque"
 description              : &description "MD, PhD."
@@ -24,7 +24,7 @@ author:
   avatar           : "https://sites.duke.edu/ifsprojectassets/files/2026/05/Albuquerque_Daniela_568-0197PreferredHeadshotscrop-scaled.jpg"
   name             : "Daniela de Albuquerque"
   pronouns         : # example: "she/her"  
-  bio              : "MD, PhD. Transitional Year (PGY-1) Resident at MAHEC. Matched into Diagnostic Radiology at University of Washington (Seattle)."
+  bio              : "Transitional Year (PGY-1) Resident at MAHEC. Matched into Diagnostic Radiology at University of Washington (Seattle)."
   location         : "Asheville, NC"
   employer         : "MAHEC"
   uri              : # URL
