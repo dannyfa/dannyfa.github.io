@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Daniela de Albuquerque"
 title_separator          : "-"
 name                     : &name "Daniela de Albuquerque"
-description              : &description "MD, PhD. Diagnostic radiology resident at University of Washington(Seattle). Currently completing transitional year at MAHEC."
+description              : &description "MD, PhD in Electrical and Computer Engineering."
 url                      : https://dannyfa.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dannyfa/dannyfa.github.io"
@@ -21,14 +21,14 @@ repository               : "dannyfa/dannyfa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://sites.duke.edu/ifsprojectassets/files/2024/07/IMG05884-scaled.jpg"
+  avatar           : "https://sites.duke.edu/ifsprojectassets/files/2026/05/Albuquerque_Daniela_568-0197PreferredHeadshotscrop-scaled.jpg"
   name             : "Daniela de Albuquerque"
   pronouns         : # example: "she/her"  
-  bio              : "MD-PhD candidate developing deep generative models for neuroscience and biomedical data."
-  location         : "Durham, NC"
-  employer         : "Duke University"
+  bio              : "Diagnostic radiology resident at University of Washington(Seattle). Currently completing transitional year at MAHEC."
+  location         : "Asheville, NC"
+  employer         : "Mountain Area Health Education Center (MAHEC)"
   uri              : # URL
-  email            : "daniela.de.albuquerque@duke.edu" 
+  email            : "danyfa@me.com" 
 
   # Academic websites
   # Make sure to add google scholar profile AND pubmed one too 
