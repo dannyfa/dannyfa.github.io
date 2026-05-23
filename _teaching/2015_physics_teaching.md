@@ -5,12 +5,12 @@ type: "Undergraduate course"
 permalink: /teaching/2015_physics_teaching
 venue: "Duke University, Physics"
 date: 2015-05-15
-location: "Beaufort, US"
+location: "Beaufort, NC"
 ---
 
-I was a teaching assistant for Physics 141L (Classical Mechanics) and 142L (E&M) for life
+I was a teaching assistant for Physics 141L (Classical Mechanics) and 142L (Electricity & Magnetism) for life
 science undergraduate students at Duke during the summer of 2015. These courses were taught 
-during Summer Sessions I, II and were conducted at Duke's marine laboratory campus in Beaufort, NC. 
+during Summer Sessions I & II and were conducted at Duke's marine laboratory campus in Beaufort, NC. 
 
 <strong>Duties:</strong> Provided small lectures and formal proofs of theorems for students, held office hours 
 to support students with questions on homework and class activities, helped students with in-class problems,

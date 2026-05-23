@@ -3,7 +3,7 @@ title: "Cardiac Physiology"
 collection: teaching
 type: "Graduate/Professional Course"
 permalink: /teaching/2012_cardiac_phys_teaching
-venue: "University of Brasilia School of Medicine, Medical Physiology"
+venue: "University of Brasilia's School of Medicine, Medical Physiology"
 date: 2011-08-01 
 location: "Brasilia, Brazil"
 ---
