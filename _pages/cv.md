@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.D, Ph.D, Duke University, Aug. 2017-May 2026<br/>
+* M.D-Ph.D, Duke University, Aug. 2017-May 2026<br/>
   PhD in Electrical and Computer Engineering (ECE)<br/>
-  Thesis: [Latent Representation Inference for the Biomedical Sciences Through the Lens of Deep Generative Modeling](https://login.proxy.lib.duke.edu/login?url=https://www.proquest.com/dissertations-theses/latent-representation-inference-biomedical/docview/3341637296/se-2?accountid=10598)
+  Thesis: [Latent Representation Inference for the Biomedical Sciences Through the Lens of Deep Generative Modeling](https://www.proquest.com/pqdtglobal/docview/3341637296/abstract/FE66957A95004700PQ/1?accountid=10598&sourcetype=Dissertations%20&%20Theses)
 
 * M.S. in Electrical and Computer Engineering (ECE), Duke University, Aug. 2020-Dec. 2022
 
