@@ -19,16 +19,16 @@ Education
 
 * B.S. in Neuroscience (with Distinction) and Minor in Chemistry, Duke University, Aug. 2012-May 2015
 
-* University of Brasilia School of Medicine, Brasilia (Brazil), Jan. 2011-July 2012<br/>
-  Completed first 3 semesters of doctor of medicine (MD) program and transferred to Duke University as an undergraduate on Fall 2012.
+* University of Brasilia's School of Medicine, Brasilia (Brazil), Jan. 2011-July 2012<br/>
+  Completed first three semesters of doctor of medicine (MD) program and transferred to Duke University as an undergraduate on Fall 2012.
 
 Residency & Fellowship Training
 =======
 * Mountain Area Health Education Center (MAHEC), Asheville, NC<br/>
-  Transitional Year (PGY-1) Resident, July 2026-June 2027
+  Transitional Year Residency Program, July 2026-June 2027
 
 * University of Washington, Seattle, WA<br/>
-  Diagnostic Radiology (Advanced) Residency Program, July 2027-June 2031 (expected)
+  Diagnostic Radiology Residency Program (Advanced), July 2027-June 2031 (expected)
 
 Honors & Awards
 ======
@@ -51,34 +51,34 @@ Honors & Awards
 
 Research Experience
 ======
-* Fall 2019 - present: Brains & Computation Lab
-  * Duke University 
-  * <strong> Summary: </strong> Research focus is on developing novel deep generative modeling techniques and in 
-  applying these to provide more flexible and reliable analysis tools  
-  for neuroscience and biomedical data broadly (e.g., fMRI, EEG, ECoG).
-  * PI: John Pearson
+* <strong>Brains & Computation Lab, Duke University, Fall 2019 - May 2026</strong><br/>
+   * <strong>PI: John Pearson</strong>
+  * <strong> Summary: </strong> Research focus was on developing new deep generative modeling approaches better suited to analyze different modalities of neuroscience data (e.g., brain fMRI, calcium imaging data, behavioral data, EEG, ECoG). 
   
-* Fall 2015 - Summer 2017: Clinical and Translational Neuroscience Branch (CTNB)
-  * National Institute of Mental Health (NIMH)
+  Projects leveraged general principles of existing deep generative modeling frameworks (e.g., Variational Auto-Encoders, Diffusion-Based Models, Flow-Matching) to create new models capable of inferring latent representations with desirable properties, such as dimensionality reduction, uncertainty quantification, temporal dynamics modeling, and interpretability. Results of this work were published on the Journal of Machine Learning Research (JMLR) and in the proceedings of the 38<sup>th</sup> Conference on Neural Information Processing Systems (NeurIPS, Vancouver), and of the 43<sup>rd</sup> Internal Conference on Machine Learning (ICML, Seoul).
+ 
+  
+* <strong>Clinical and Translational Neuroscience Branch (CTNB), National Institutes of Mental Health (NIMH), Fall 2015 - Summer 2017 </strong></br>
+  * <strong>PIs: Karen Berman & Joseph Callicott </strong>
   * <strong> Summary: </strong> Main project involved combining genome-wide association analysis and neuroimaging methodologies in 
   an agnostic, high-throughput voxel-wise and genome-wide approach to investigate genetic determinants of 
-  working memory function. 
-  * PIs: Karen Berman & Joseph Callicott 
+  working memory function. Results of this work were presented at the Society of Biological Psychiatry Annual Meetings of 2016 - Atlanta, GA (poster) and 2017 -  San Diego, CA (oral).
+  
 
-* Spring 2013 - Spring 2015: Woldorff Laboratory
-  * Duke University 
+* <strong>Woldorff Laboratory, Duke University, Spring 2013 - Spring 2015</strong></br>
+  * <strong>PI: Marty Woldorff</strong>
   * <strong> Summary: </strong> Main project involved leveraging the high temporal resolution of electroencephalography (EEG) 
   and a previously validated translational sustained attention paradigm to investigate the effects of a visual, 
   global distractor on the temporal cascade of electrical brain processes associated with ongoing sustained 
-  attention efforts. 
-  * PI: Marty Woldorff 
+  attention efforts. Results of this project were first presented in my undergraduate senior thesis dissertation. They also gave origin to an abstract for the Cognitive Neuroscience Society Annual Meeting of 2015 (San Francisco, CA) and are further described in a manuscript published on Neuropsychologia.
+  
   
 Skills
 ======
-* <strong> Programming </strong> 
-    * Pytorch, Python, C, C++, SQL, R, Julia, Latex
+* <strong> Programming Languages </strong> 
+    * Pytorch, Python, C, C++, SQL, R, Julia, Latex, Markdown
 * <strong> Spoken Languages </strong>
-    * English (fluent), Portuguese (native), Spanish (advanced)
+    * English (fluent), Portuguese (native), Spanish (advanced), German (beginner)
 * <strong> Biomedical Data Analysis </strong>
    * Electroencephalography (EEG) data analysis (ERP and time-frequency methods)
    * Neuroimaging (fMRI, DTI, MR spectrostcopy) data analysis using multiple software packages (SPM, FSL, Afni, NiBabel, Pydicom, Nilearn)
