@@ -11,32 +11,51 @@ redirect_from:
 
 Education
 ======
-* M.D & Ph.D in Electrical and Computer Engineering (ECE), Duke University, 2026 (expected)
-* M.S. in Electrical and Computer Engineering (ECE), Duke University, 2022
-* B.S. in Neuroscience, Duke University, 2015
+* M.D, Ph.D, Duke University, Aug. 2017-May 2026<br/>
+  PhD in Electrical and Computer Engineering (ECE)<br/>
+  Thesis: [Latent Representation Inference for the Biomedical Sciences Through the Lens of Deep Generative Modeling](https://login.proxy.lib.duke.edu/login?url=https://www.proquest.com/dissertations-theses/latent-representation-inference-biomedical/docview/3341637296/se-2?accountid=10598)
+
+* M.S. in Electrical and Computer Engineering (ECE), Duke University, Aug. 2020-Dec. 2022
+
+* B.S. in Neuroscience (with Distinction) and Minor in Chemistry, Duke University, Aug. 2012-May 2015
+
+* University of Brasilia School of Medicine, Jan. 2021-July 2012<br/>
+  Completed first 3 semesters of doctor of medicine (MD) program and transferred to Duke University as an undergraduate on Fall 2012.
+
+Residency & Fellowship Training
+=======
+Mountain Area Health Education Center (MAHEC), Asheville, NC<br/>
+Transitional Year (PGY-1) Resident, July 2026-June 2027
+
+University of Washington, Seattle, WA<br/>
+Diagnostic Radiology (Advanced) Residency Program, July 2027-June 2031 (expected)
 
 Honors & Awards
 ======
-* Ruth L. Kirschstein Pre-Doctoral NRSA, NIMH, 2023-2025
-* Outstanding Graduate Student Teaching Assistant, Spring 2023 & 2024
-* Selected to attend in-person, Oxford's Machine Learning in Medicine Summer School, Summer 2023
+* Selected to serve as Chief Resident, MAHEC Transitional Year Residency Program, 2026-2027
+* Invited to serve as a reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2025-2026
+* Ruth L. Kirschstein Pre-Doctoral NRSA, NIMH, 2023-2026
+* Invited to attend in-person, Innaugural Raynor Cerebellum Project Post-Doc Summit, Scottsdale, AZ, Nov. 2024
+* Outstanding Graduate Student Teaching Assistant, Duke University, Spring 2023 & 2024
+* Selected to attend in-person, Oxford's Machine Learning in Medicine Summer School, Oxford, UK, Summer 2023
 * Runner-up for Gertrude B. Elion Research Award, Triangle Community Foundation, Spring 2023
 * One out of three Duke finalists, Apple's AI/ML PhD Fellowship selection, Fall 2021 
-* Medical Scientist Training Program (MSTP) trainee award through Duke, 2017-present 
-* Post-Baccalaureate Intramural Research Fellowsip Award, NIMH, 2015-2017
-* Elected Member of Phi Beta Kappa, Summer 2015
-* Graduated with Distinction in Neuroscience, Summer 2015
-* Graduated Magna Cum Laude, Summer 2015 
-* Duke's Neuroscience Program of Research Fellowship Award, Summer 2014 
-* Valedictorian of 1000 graduating seniors, Fall 2010 (Brazil)
+* Medical Scientist Training Program (MSTP) trainee award, Duke University, 2017-2026
+* Post-Baccalaureate Intramural Research Fellowsip Award, NIMH, Bethesda, MD, 2015-2017
+* Elected Member of Phi Beta Kappa, Duke University, Summer 2015
+* Graduated with Distinction in Neuroscience, Duke University, Summer 2015
+* Graduated Magna Cum Laude, Duke University, Summer 2015 
+* Undergraduate Neuroscience Program of Research Fellowship Award, Duke University, Summer 2014 
+* Outstanding student (top 10% by GPA), University of Brasilia's School of Medicine (Brazil), June 2012
+* Full, merit-based scholarship during all 3 years of high-school, Leaonardo da Vinci High School (Brazil), 2007-2010
 
 Research Experience
 ======
 * Fall 2019 - present: Brains & Computation Lab
   * Duke University 
-  * <strong> Summary: </strong> Research focus is on developing novel statistical machine learning techniques and in 
-  applying these to provide more flexible and reliable modeling and analysis methods 
-  for neuroscience data broadly (e.g., fMRI, EEG, ECoG).
+  * <strong> Summary: </strong> Research focus is on developing novel deep generative modeling techniques and in 
+  applying these to provide more flexible and reliable analysis tools  
+  for neuroscience and biomedical data broadly (e.g., fMRI, EEG, ECoG).
   * PI: John Pearson
   
 * Fall 2015 - Summer 2017: Clinical and Translational Neuroscience Branch (CTNB)
@@ -61,8 +80,8 @@ Skills
 * <strong> Spoken Languages </strong>
     * English (fluent), Portuguese (native), Spanish (advanced)
 * <strong> Biomedical Data Analysis </strong>
-   * Electroencephalography (EEG) data analysis (EPR and time-frequency methods)
-   * Neuroimaging (fMRI, DTI, MR spectrostcopy) data analysis (SPM, FSL, Afni, NiBabel, Pydicom, Nilearn)
+   * Electroencephalography (EEG) data analysis (ERP and time-frequency methods)
+   * Neuroimaging (fMRI, DTI, MR spectrostcopy) data analysis using multiple software packages (SPM, FSL, Afni, NiBabel, Pydicom, Nilearn)
    * Genomics Data Analysis
 
 Publications
@@ -87,7 +106,7 @@ Service and leadership
 ======
 * Creative Computing Educational Program 
   * Role: Co-Founder, Instructor
-  * Active Time: Spring 2023 - present
+  * Active Time: Spring 2023 - Fall 2024
   * Description: This program is aimed at teaching 2<sup>nd</sup> and 3<sup>rd</sup> graders 
   about basic principles of computer programming logic using [Scratch](https://scratch.mit.edu/about), 
   a free, high-level programming language developed by the MIT Media Lab for educational purposes.
