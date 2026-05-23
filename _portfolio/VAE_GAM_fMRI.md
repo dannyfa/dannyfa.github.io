@@ -1,11 +1,11 @@
 ---
 title: "Deep Generative Analysis for Task-Based Functional MRI Experiments"
-excerpt: "VAE-GAM model for brain fMRI analysis <br/><img src='https://sites.duke.edu/ifsprojectassets/files/2024/07/figure1.png' width='70%'>"
+excerpt: "VAE-GAM model for brain fMRI analysis <br/><img src='https://sites.duke.edu/ifsprojectassets/files/2024/07/figure1.png' width='95%'>"
 collection: portfolio
 ---
 
 <figure>
-<br/><center><img src='https://sites.duke.edu/ifsprojectassets/files/2024/07/figure1.png' width='90%'></center>
+<br/><center><img src='https://sites.duke.edu/ifsprojectassets/files/2024/07/figure1.png' width='95%'></center>
 <figcaption> <strong> Schematic of the GAM-VAE fMRI model </strong>. Each fMRI volume is compressed to a lower-dimensional representation using a probabilistic encoder network. Latent space vectors are then sampled and fed to a probabilistic decoder, which yields a base map (blue) and a set of covariate-specific maps (dark green). The gain of each covariate map (light green) is the sum of a linear effect term and a potential non-linearity modeled by a Gaussian process. Finally, the full mean reconstruction of the input is obtained by adding the base and the scaled covariate maps. Variance is modeled on a per-voxel basis, yielding a separate variance map (purple). </figcaption>
 </figure>
 

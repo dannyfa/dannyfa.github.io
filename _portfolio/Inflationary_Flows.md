@@ -1,12 +1,12 @@
 ---
 title: "Inflationary Flows"
-excerpt: "Calibrated Bayesian Inference with Diffusion-Based Models<br/><img src='https://sites.duke.edu/ifsprojectassets/files/2024/07/figure1-1.png' width='75%'>"
+excerpt: "Calibrated Bayesian Inference with Diffusion-Based Models<br/><img src='https://sites.duke.edu/ifsprojectassets/files/2024/07/figure1-1.png' width='100%'>"
 collection: portfolio
 mathjax: true
 ---
 
 <figure>
-<br/><center><img src='https://sites.duke.edu/ifsprojectassets/files/2024/07/figure1-1.png' width='85%'></center>
+<br/><center><img src='https://sites.duke.edu/ifsprojectassets/files/2024/07/figure1-1.png' width='100%'></center>
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
@@ -16,15 +16,12 @@ mathjax: true
 In this project we exploited a previously established connection between the stochastic and probability flow ordinary differential equations (pfODEs) underlying
 Diffusion-Based Models (DBMs) to derive a new class of models, <i>inflationary flows</i>, that uniquely and deterministically map high-dimensional data to a lower-dimensional 
 Gaussian distribution via ODE integration. This map is both invertible and neighborhood-preserving, with controllable numerical error, with the result that uncertainties 
-in the data are correctly propagated to the latent space. We demonstrate how such maps can be learned via standard DBM training using a novel noise schedule and are 
+in the data are correctly propagated to the latent space. We demonstrate how such maps can be learned via standard Diffusion-Based Model (DBM) training using a novel noise schedule and are 
 effective at both preserving and reducing intrinsic data dimensionality. The result is a class of highly expressive generative models, uniquely defined on a low-dimensional 
 latent space, that afford principled Bayesian inference.
 
-Our [manuscript](https://openreview.net/pdf?id=IM4LtYRWdE) on this work has just been accepted to NeurIPS 2024! If you are attending NeurIPS this 
-year, please come by our poster and chat with me! Additional details on this project can be found in our 
-[project website](https://dannyfa.github.io/IFs_Teaser/) and code for reproducing experimental results can be found in this [repository](https://github.com/dannyfa/Inflationary_Flows).
+Our [manuscript](https://openreview.net/pdf?id=IM4LtYRWdE) on this work was accepted to NeurIPS 2024. Additional details on this project can be found in our [project website](https://dannyfa.github.io/IFs_Teaser/) and code for reproducing experimental results can be found in this [repository](https://github.com/dannyfa/Inflationary_Flows).
 
-
-Finally, this work was also featured on the CoSyNe 2024 Workshop entitled "I Can't Believe It's Not Better", check out the video for this talk [here](https://www.youtube.com/watch?v=5m8FWzZ_ZAc&list=PLWAzLum_3a1_qEfcl4Wrh3p7Qsjr2jIX4&index=2&t=4s).
+Finally, this work was also featured on the CoSyNe 2024 Workshop entitled "I Can't Believe It's Not Better". Check out the video for this talk [here](https://www.youtube.com/watch?v=5m8FWzZ_ZAc&list=PLWAzLum_3a1_qEfcl4Wrh3p7Qsjr2jIX4&index=2&t=4s).
 
 <!---This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.--->
