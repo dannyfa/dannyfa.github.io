@@ -19,16 +19,16 @@ Education
 
 * B.S. in Neuroscience (with Distinction) and Minor in Chemistry, Duke University, Aug. 2012-May 2015
 
-* University of Brasilia School of Medicine, Jan. 2021-July 2012<br/>
+* University of Brasilia School of Medicine, Brasilia (Brazil), Jan. 2011-July 2012<br/>
   Completed first 3 semesters of doctor of medicine (MD) program and transferred to Duke University as an undergraduate on Fall 2012.
 
 Residency & Fellowship Training
 =======
-Mountain Area Health Education Center (MAHEC), Asheville, NC<br/>
-Transitional Year (PGY-1) Resident, July 2026-June 2027
+* Mountain Area Health Education Center (MAHEC), Asheville, NC<br/>
+  Transitional Year (PGY-1) Resident, July 2026-June 2027
 
-University of Washington, Seattle, WA<br/>
-Diagnostic Radiology (Advanced) Residency Program, July 2027-June 2031 (expected)
+* University of Washington, Seattle, WA<br/>
+  Diagnostic Radiology (Advanced) Residency Program, July 2027-June 2031 (expected)
 
 Honors & Awards
 ======
@@ -47,7 +47,7 @@ Honors & Awards
 * Graduated Magna Cum Laude, Duke University, Summer 2015 
 * Undergraduate Neuroscience Program of Research Fellowship Award, Duke University, Summer 2014 
 * Outstanding student (top 10% by GPA), University of Brasilia's School of Medicine (Brazil), June 2012
-* Full, merit-based scholarship during all 3 years of high-school, Leaonardo da Vinci High School (Brazil), 2007-2010
+* Full, merit-based scholarship during all 3 years of high-school, Leonardo da Vinci High School (Brazil), 2007-2010
 
 Research Experience
 ======
