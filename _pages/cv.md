@@ -53,24 +53,22 @@ Research Experience
 ======
 * <strong>Brains & Computation Lab, Duke University, Fall 2019 - May 2026</strong><br/>
    * <strong>PI: John Pearson</strong>
-  * <strong> Summary: </strong> Research focus was on developing new deep generative modeling approaches better suited to analyze different modalities of neuroscience data (e.g., brain fMRI, calcium imaging data, behavioral data, EEG, ECoG). 
-  
-  Projects leveraged general principles of existing deep generative modeling frameworks (e.g., Variational Auto-Encoders, Diffusion-Based Models, Flow-Matching) to create new models capable of inferring latent representations with desirable properties, such as dimensionality reduction, uncertainty quantification, temporal dynamics modeling, and interpretability. Results of this work were published on the Journal of Machine Learning Research (JMLR) and in the proceedings of the 38<sup>th</sup> Conference on Neural Information Processing Systems (NeurIPS, Vancouver), and of the 43<sup>rd</sup> Internal Conference on Machine Learning (ICML, Seoul).
+  * <strong> Summary: </strong> Research focus was on developing new deep generative modeling approaches better suited to analyze different modalities of neuroscience data (e.g., brain fMRI, calcium imaging data, behavioral data, EEG, ECoG). Projects leveraged general principles of existing deep generative modeling frameworks (e.g., Variational Auto-Encoders, Diffusion-Based Models, Flow-Matching) to create new models capable of inferring latent representations with desirable properties, such as dimensionality reduction, uncertainty quantification, temporal dynamics modeling, and interpretability. Results of this work were published on the Journal of Machine Learning Research (JMLR) and in the proceedings of the 38<sup>th</sup> Conference on Neural Information Processing Systems (NeurIPS, Vancouver, 2024), and of the 43<sup>rd</sup> Internal Conference on Machine Learning (ICML, Seoul, 2026).
  
   
-* <strong>Clinical and Translational Neuroscience Branch (CTNB), National Institutes of Mental Health (NIMH), Fall 2015 - Summer 2017 </strong></br>
+* <strong>Clinical and Translational Neuroscience Branch (CTNB), National Institutes of Mental Health (NIMH), Fall 2015 - Summer 2017 </strong><br/>
   * <strong>PIs: Karen Berman & Joseph Callicott </strong>
   * <strong> Summary: </strong> Main project involved combining genome-wide association analysis and neuroimaging methodologies in 
   an agnostic, high-throughput voxel-wise and genome-wide approach to investigate genetic determinants of 
-  working memory function. Results of this work were presented at the Society of Biological Psychiatry Annual Meetings of 2016 - Atlanta, GA (poster) and 2017 -  San Diego, CA (oral).
+  working memory function. Results of this work were presented at the Society of Biological Psychiatry Annual Meetings of 2016 (Atlanta, poster) and 2017 (San Diego, oral).
   
 
-* <strong>Woldorff Laboratory, Duke University, Spring 2013 - Spring 2015</strong></br>
+* <strong>Woldorff Laboratory, Duke University, Spring 2013 - Spring 2015</strong><br/>
   * <strong>PI: Marty Woldorff</strong>
   * <strong> Summary: </strong> Main project involved leveraging the high temporal resolution of electroencephalography (EEG) 
   and a previously validated translational sustained attention paradigm to investigate the effects of a visual, 
   global distractor on the temporal cascade of electrical brain processes associated with ongoing sustained 
-  attention efforts. Results of this project were first presented in my undergraduate senior thesis dissertation. They also gave origin to an abstract for the Cognitive Neuroscience Society Annual Meeting of 2015 (San Francisco, CA) and are further described in a manuscript published on Neuropsychologia.
+  attention efforts. Results of this project were first presented in my undergraduate senior thesis dissertation. They also gave origin to an abstract for the Cognitive Neuroscience Society Annual Meeting of 2015 (San Francisco, poster) and are further described in a manuscript published on Neuropsychologia.
   
   
 Skills
@@ -102,34 +100,33 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service & Community Advocacy
 ======
-* Creative Computing Educational Program 
-  * Role: Co-Founder, Instructor
-  * Active Time: Spring 2023 - Fall 2024
-  * Description: This program is aimed at teaching 2<sup>nd</sup> and 3<sup>rd</sup> graders 
+* <strong>Creative Computing Educational Program</strong>
+  * <strong>Role: Co-Founder, Instructor</strong>
+  * <strong>Active Time: Fall 2022 - Fall 2024</strong>
+  * <strong>Description:</strong> This program is aimed at teaching 2<sup>nd</sup> and 3<sup>rd</sup> graders 
   about basic principles of computer programming logic using [Scratch](https://scratch.mit.edu/about), 
   a free, high-level programming language developed by the MIT Media Lab for educational purposes.
 
-* Boost Beyond Program (Duke University School of Medicine)
-  * Role: Mentor
-  * Active Time: Spring 2021 - Fall 2023
-  * Description: This program is aimed at mentoring and supporting high-school students from minority 
-  or under-privileged backgrounds interested in pursuing careers in STEM throughout their college 
+* <strong>Boost Beyond Program, Duke University School of Medicine</strong>
+  * <strong>Role: Mentor</strong>
+  * <strong>Active Time: Fall 2021 - Fall 2023</strong>
+  * <strong>Description:</strong> This program is aimed at mentoring and supporting high-school students from minority or under-privileged backgrounds interested in pursuing careers in STEM throughout their college 
   application process. 
 
-* Hand2Hold Student Group (Duke University School of Medicine)
-  * Role: Executive Board Member; Educator 
-  * Active Time: Fall 2017 - Fall 2018 
-  * Description: This is a student group at the Duke SOM with two main goals: 1) prototyping
+* <strong>Hand2Hold Student Group, Duke University School of Medicine</strong>
+  * <strong>Role: Executive Board Member; Educator </strong>
+  * <strong>Active Time: Fall 2017 - Fall 2018 </strong>
+  * <strong>Description:</strong> This is a student group at the Duke SOM with two main goals: 1) prototyping
   and constructing customized 3D-printed "wearables" for low-income patients with small hand and/or finger 
   amputations; 2) providing educational outreach to minority students interested in STEM (through 
   Duke's Boost Program) by introducing these students to basics of hand anatomy, 3D printing, and
   engineering design.
 
-* NIMH's Schizophrenia Ward Clinical Program 
-  * Role: Volunteer
-  * Active Time: Fall 2015 - Summer 2017
-  * Description: This program is aimed at helping researchers at NIMH gain direct experience working 
+<!-- <strong>NIMH's Schizophrenia Ward Clinical Program</strong>
+  * <strong>Role: Volunteer</strong>
+  * <strong>Active Time: Fall 2015 - Summer 2017</strong>
+  * <strong>Description:</strong> This program is aimed at helping researchers at NIMH gain direct experience working 
   with schizophrenia patients, the clinical teams, and patient families, at NIMH's adult inpatient 
-  psychiatric unit. 
+  psychiatric unit. -->
