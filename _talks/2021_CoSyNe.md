@@ -1,5 +1,5 @@
 ---
-title: "Deep Generative Analyses for Task-Based fMRI Experiments"
+title: "Deep Generative Analyses for Task-Based fMRI Experiments."
 collection: talks
 type: "Poster"
 permalink: /talks/2021_CoSyNe

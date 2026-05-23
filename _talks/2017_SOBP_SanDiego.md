@@ -1,5 +1,5 @@
 ---
-title: "Genetic Determinants of Working Memory: a High-Throughput Voxel-Wise GWAS Approach"
+title: "Genetic Determinants of Working Memory: a High-Throughput Voxel-Wise GWAS Approach."
 collection: talks
 type: "Talk"
 permalink: /talks/2017_SOBP_SanDiego

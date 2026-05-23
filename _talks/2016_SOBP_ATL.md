@@ -1,5 +1,5 @@
 ---
-title: "Assessing Genetic Determinants of normal brain function through genome wide association studies (GWASs): a quantitative intermediate phenotype approach"
+title: "Assessing Genetic Determinants of Normal Brain Function Through Genome Wide Association Studies (GWASs): a Quantitative Intermediate Phenotype Approach."
 collection: talks
 type: "Poster"
 permalink: /talks/2016_SOBP_ATL

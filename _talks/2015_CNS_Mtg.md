@@ -1,5 +1,5 @@
 ---
-title: "The effects of distraction on brain processes underlying signal detection"
+title: "The Effects of Distraction on Brain Processes Underlying Signal Detection"
 collection: talks
 type: "Poster"
 permalink: /talks/2015_CNS_Mtg
