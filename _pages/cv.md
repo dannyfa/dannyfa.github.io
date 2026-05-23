@@ -100,7 +100,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service & Community Advocacy
+Service & Community Outreach
 ======
 * <strong>Creative Computing Educational Program</strong>
   * <strong>Role: Co-Founder, Instructor</strong>
