@@ -6,9 +6,9 @@ excerpt: 'In this project we exploited a previously established connection betwe
 Diffusion-Based Models (DBMs) to derive a new class of models, <i>inflationary flows</i>, that uniquely and deterministically map high-dimensional data to a lower-dimensional 
 Gaussian distribution via ODE integration.'
 date: 2024-12-09
-venue: 'Proceedings of the 38th Annual Conference on Neural Information Processing Systems'
+venue: 'Proceedings of the 38<sup>th</sup> Conference on Neural Information Processing Systems'
 paperurl: 'https://openreview.net/pdf?id=IM4LtYRWdE'
-citation: '<strong> De Albuquerque, D.</strong>, & Pearson, J.(2024). &quot;Inflationary Flows: Calibrated Bayesian Inference with Diffusion-Based Models.&quot; <i>In Proceedings of the 38th Annual Conference on Neural Information Processing Systems.</i>'
+citation: '<strong> De Albuquerque, D.</strong>, & Pearson, J.(2024). &quot;Inflationary Flows: Calibrated Bayesian Inference with Diffusion-Based Models.&quot; <i>In Proceedings of the 38<sup>th</sup> Conference on Neural Information Processing Systems.</i>'
 ---
 
 <i>Abstract:</i> Beyond estimating parameters of interest from data, one of the key goals of statistical inference is to properly quantify 

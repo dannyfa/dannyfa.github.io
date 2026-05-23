@@ -5,7 +5,7 @@ permalink: /publication/undergrad_neuropsychologia_paper
 excerpt: 'This work leverages the high temporal resolution of EEG to study the neural consequences of a global, continuous distractor on signal-detection processes.'
 date: 2016-08-01
 venue: 'Neuropsychologia'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0028393216302378?via%3Dihub'
+paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC5089870/pdf/nihms-804926.pdf'
 citation: 'Demeter, E., <strong>DeAlbuquerque, D.</strong>, & Worldorff, M. (2016). &quot;The Effects of ongoing distraction on the neural processes underlying signal detection.&quot; <i>Neuropsychologia</i>. 89(335-343).'
 ---
 
