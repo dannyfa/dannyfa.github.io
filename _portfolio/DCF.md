@@ -6,7 +6,7 @@ mathjax: true
 ---
 
 <figure>
-<br/><img src='https://sites.duke.edu/ifsprojectassets/files/2026/05/DCF_concept.pdf' width='60%'>
+<br/><img src='https://sites.duke.edu/ifsprojectassets/files/2026/05/DCF_concept.jpg' width='70%'>
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
@@ -21,7 +21,7 @@ Our [manuscript](https://openreview.net/pdf?id=Y86LpaxXz4) on this work was acce
 
 
 <figure>
-<br/><img src='https://sites.duke.edu/ifsprojectassets/files/2026/05/musal_main_comparison.pdf' width='100%'>
+<br/><img src='https://sites.duke.edu/ifsprojectassets/files/2026/05/musal_main_comparison-scaled.jpg' width='100%'>
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
