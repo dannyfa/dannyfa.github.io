@@ -17,7 +17,7 @@ Modern neuroscience data are often thought to be complex and can have up to hund
 
 In this project, we used an existing deep generative model technique called “Flow Matching” to learn flow-fields capable of seamlessly transporting the data into a lower-dimensional representation while also preserving its intrinsic temporal structure. We applied this new method to multiple real open-source neuroscience datasets (see example below), and compared it against several competing approaches showing its ability to discover lower-dimensional dynamics directly from data, even in challenging scenarios where conventional models tend to fail. Of note, we also showed that the low-dimension representations learned are unique (up to sign flips) and can be recovered consistently across different experimental runs. We hope that this work can provide a tool for neuroscientists to analyze and better understand their data, ultimately yielding new insights into brain dynamics and function.
 
-Our [manuscript](https://openreview.net/pdf?id=Y86LpaxXz4) on this work was accepted to ICML 2026. Additional details on this project can be found in our <strong>upcoming project website</strong> and code for reproducing experimental results can be found in this [repository](https://github.com/dannyfa/Velocity_Flow_Matching/tree/nlb_dataloader).
+Our [manuscript](https://openreview.net/pdf?id=Y86LpaxXz4) on this work was accepted to ICML 2026. Additional details on this project can be found in our [project website](https://dannyfa.github.io/DCF_Teaser/) and code for reproducing experimental results can be found in this [repository](https://github.com/dannyfa/Velocity_Flow_Matching/tree/cleaned).
 
 
 <figure>
