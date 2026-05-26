@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Compression Flows for Neuroscience Data"
-excerpt: "Low-dimensional, identifiable, and dynamics preserving representation learning for neuroscience data using Flow-Matching<br/><center><img src='https://sites.duke.edu/ifsprojectassets/files/2026/05/DCF_concept.pdf' width='60%'></center>"
+excerpt: "Low-dimensional, identifiable, and dynamics preserving representation learning for neuroscience data using Flow-Matching<br/><center><img src='https://sites.duke.edu/ifsprojectassets/files/2026/05/DCF_concept.jpg' width='70%'></center>"
 collection: portfolio
 mathjax: true
 ---
@@ -17,7 +17,7 @@ Modern neuroscience data are often thought to be complex and can have up to hund
 
 In this project, we used an existing deep generative model technique called “Flow Matching” to learn flow-fields capable of seamlessly transporting the data into a lower-dimensional representation while also preserving its intrinsic temporal structure. We applied this new method to multiple real open-source neuroscience datasets (see example below), and compared it against several competing approaches showing its ability to discover lower-dimensional dynamics directly from data, even in challenging scenarios where conventional models tend to fail. Of note, we also showed that the low-dimension representations learned are unique (up to sign flips) and can be recovered consistently across different experimental runs. We hope that this work can provide a tool for neuroscientists to analyze and better understand their data, ultimately yielding new insights into brain dynamics and function.
 
-Our [manuscript](https://openreview.net/pdf?id=Y86LpaxXz4) on this work was accepted to ICML 2026. Additional details on this project can be found in our [project website](https://dannyfa.github.io/DCF_Teaser/) and code for reproducing experimental results can be found in this [repository](https://github.com/dannyfa/Velocity_Flow_Matching/tree/cleaned).
+Our [manuscript](https://www.biorxiv.org/content/10.64898/2026.02.12.705535v1) on this work was accepted to ICML 2026. Additional details on this project can be found in our [project website](https://dannyfa.github.io/DCF_Teaser/) and code for reproducing experimental results can be found in this [repository](https://github.com/dannyfa/Velocity_Flow_Matching/tree/cleaned).
 
 
 <figure>
