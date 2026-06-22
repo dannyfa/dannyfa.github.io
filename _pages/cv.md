@@ -13,7 +13,7 @@ Education
 ======
 * M.D-Ph.D, Duke University, Aug. 2017-May 2026<br/>
   PhD in Electrical and Computer Engineering (ECE)<br/>
-  Thesis: [Latent Representation Inference for the Biomedical Sciences Through the Lens of Deep Generative Modeling](https://www.proquest.com/pqdtglobal/docview/3341637296/abstract/FE66957A95004700PQ/1?accountid=10598&sourcetype=Dissertations%20&%20Theses)
+  Thesis: [Latent Representation Inference for the Biomedical Sciences Through the Lens of Deep Generative Modeling](https://www.proquest.com/docview/3341637296?sourcetype=Dissertations%20&%20Theses)
 
 * M.S. in Electrical and Computer Engineering (ECE), Duke University, Aug. 2020-Dec. 2022
 
@@ -102,6 +102,11 @@ Teaching
   
 Service & Community Outreach
 ======
+* <strong>Shoulder to Shoulder Medical Brigade</strong>
+  * <strong>Role: Medical Volunteer</strong>
+  * <strong>Active Time: August 1<sup>st</sup>-13<sup>th</sup>, 2026</strong>
+  * <strong>Description:</strong> Volunteered with MAHEC's Shoulder to Shoulder Medical Brigade in Intibuca, Honduras. Shoulder to Shoulder is a private, non-profit, non-governmental organization that works together with its Honduran counterpart, Hombro a Hombro, to provide healthcare services in rural Honduras.
+
 * <strong>Creative Computing Educational Program</strong>
   * <strong>Role: Co-Founder, Instructor</strong>
   * <strong>Active Time: Fall 2022 - Fall 2024</strong>
